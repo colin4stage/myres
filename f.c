@@ -4,7 +4,7 @@
 int main(void)
 {
 
-printf("first commit  file success");
+
 
 printf("first commit  file success");
 
